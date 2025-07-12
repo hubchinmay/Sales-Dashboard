@@ -49,4 +49,4 @@ To deliver a two-page interactive visual tool that:
 
 * ### 6. Screenshots
 * Snapshot of Dashboard 1 (https://github.com/hubchinmay/Sales-Dashboard/blob/main/Screenshot%20of%20Dashboard%201.png)
-* Snapshot of Dashboard 2 ()
+* Snapshot of Dashboard 2 (https://github.com/hubchinmay/Sales-Dashboard/blob/main/Screenshot%20of%20Dashboard%202.png)
