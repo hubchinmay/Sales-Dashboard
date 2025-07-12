@@ -1,6 +1,6 @@
 # Sales-Dashboard
 ### **Sales & Customer Analysis Dashboard**
----
+
 ### **1. Project Title**
 Sales & Customer Analysis Dashboard
 A dynamic, interactive data visualization tool built to explore a simulated company’s sales data, focusing on key performance indicators (KPIs), sales trends, and customer behavior across different product categories.
@@ -48,5 +48,5 @@ To deliver a two-page interactive visual tool that:
 * **Customer Understanding:** Identifying top customers and analyzing their buying behavior can help in building stronger customer relationships and loyalty programs.
 
 * ### 6. Screenshots
-* Snapshot of Dashboard 1 ()
+* Snapshot of Dashboard 1 (https://github.com/hubchinmay/Sales-Dashboard/blob/main/Screenshot%20of%20Dashboard%201.png)
 * Snapshot of Dashboard 2 ()
